@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi I'm Hiba 👋
+
+I'm a Computer Engineering student graduating in **June 2026**, passionate about building interactive systems. 😄
+
+⚡ I'm currently working on an AI Powered AR Basketball Training Tool, a simulation system that transforms a coach's basketball tactic drawing video into interactive 3D visualization using **Unity C#** and **Google Gemini**.
+
+💬 My career started in frontend engineering, where I worked on designing and developing user interfaces. Later, I joined **BMW Group** as a Software Engineer Intern for 6 months, where I worked on 3D simulation and full-stack applications for the logistics planning department.
 
 <!--
 **hi6a/hi6a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
